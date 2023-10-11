@@ -51,7 +51,7 @@ Para isso, você vai trabalhar com um conversor de números hexadecimais para de
 
 1. Clone o repositório
 
-- Use o comando: `git clone git@github.com:tryber/python-0x-exercicio-pytest-quest.git`
+- Use o comando: `git clone git@github.com:tryber/python-001-exercicio-pytest-quest.git`
 - Entre na pasta do repositório que você acabou de clonar:
     - `cd exercise-pytest-quest`
 
@@ -363,7 +363,7 @@ Dica: o teste não traz um retorno devidamente descritivo quando falha. Ative o 
 <details>
 <summary><strong> 🗣 Nos dê feedbacks sobre o exercício!</strong></summary>
 
-Ao finalizar e submeter o exercício, não se esqueça de avaliar sua experiência preenchendo o [formulário](https://be-trybe.typeform.com/to/ZTeR4IbH).
+Ao finalizar e submeter o exercício, não se esqueça de avaliar sua experiência preenchendo o [formulário](https://be-trybe.typeform.com/to/ZTeR4IbH#cohort_hidden=CH1&template=betrybe/python-0x-exercicio-pytest-quest).
 **Leva menos de 3 minutos!**
 
 </details>
