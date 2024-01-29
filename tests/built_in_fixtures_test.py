@@ -29,3 +29,12 @@ def test_capsys(capsys):
     capture = capsys.readouterr()
     assert capture.out == expected_output
     assert capture.err == expected_err
+
+
+def test_tmp_path(tmp_path):
+    input_hexa = "a"
+    output_path = tmp_path / "output.txt"
+
+    write_hexadecimal_to_decimal(input_hexa, output_path)
+    with open(output_path) as file:
+        assert file.read() == "10"
