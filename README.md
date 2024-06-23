@@ -369,3 +369,4 @@ Ao finalizar e submeter o exercício, não se esqueça de avaliar sua experiênc
 </details>
 
 <!-- mdi versão 1.0 exercício como projeto python ⚠️ não exclua esse comentário -->
+# python-001-exercicio-pytest-quest
